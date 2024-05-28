@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Arvestustöö. Projekt valitud teemal. Python", "Arvestustöö. Projekt valitud teemal. Python\Arvestustöö. Projekt valitud teemal. Python.pyproj", "{FA36E736-0E49-48C3-96F7-9728E6CF7A3E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FA36E736-0E49-48C3-96F7-9728E6CF7A3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA36E736-0E49-48C3-96F7-9728E6CF7A3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DE6F2567-EB09-479C-AF5E-02A3B4C10C78}
+	EndGlobalSection
+EndGlobal
